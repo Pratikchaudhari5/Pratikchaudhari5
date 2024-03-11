@@ -1,5 +1,7 @@
 ###  💫 Hello , I am PRATIK CHAUDHARI.
-I am a Backend Developer.<br>I am a self driven passionate coder who loves to solve problems and write efficient codes.<br>My Primary Coding language : Java.<br>I am looking forward to collaborate on Open-Source-Projects.<br>
+I am a Full Stack Developer also had the internship experience at Signify Technologies & ITX Jobs <br>I am a self driven passionate coder who loves to solve problems and write efficient codes.<br>My Primary Coding language : Java.<br>I am looking forward to collaborate on Open-Source-Projects.<br>
+
+During my Signify Technology Internship I had worked on React Js and help them to build beatiful UI for their live project which is Architecture Competition for students in Amravati, Maharashtra.
 
 
 ## 🌐 Socials:
